@@ -18,3 +18,4 @@ Make sure you have these **libraries** installed:
 - arch
 - pandas_datareader
 - statsmodels
+- sklearn
