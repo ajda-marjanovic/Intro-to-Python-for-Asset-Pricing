@@ -8,6 +8,7 @@ It is recommended to work through the files in the following order:
 1. **introduction.py** (Introduction to Python, Pandas, and NumPy)
 2. **yfinance.py** (Yahoo finance package for financial data, Intorduction to dictionaries)
 3. **regressions.py** (Financial data cleaning, Realized Variance and GARCH, CAPM, Fama-French factor model)
+4. **time_series_analysis.py** (Testing for stationarity, Forecasting with ARIMA model)
 
 Make sure you have these **libraries** installed:
 - pandas
