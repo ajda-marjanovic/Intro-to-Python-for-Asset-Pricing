@@ -8,7 +8,7 @@ It is recommended to work through the files in the following order:
 1. **introduction.py** (Introduction to Python, Pandas, and NumPy)
 2. **yfinance.py** (Yahoo finance package for financial data, Introduction to dictionaries)
 3. **regressions.py** (Financial data cleaning, Realized Variance and GARCH, CAPM, Fama-French factor model)
-4. **portfolioopt.py** (TODO) - 'portfolio.csv' dataset is used in this script
+4. **portfolioopt.py** (Minimum Volatility, Max Sharpe Ratio Portfolio Optimization, Efficient Frontier) - 'portfolio.csv' dataset is used in this script
 5. **time_series_analysis.py** (Testing for stationarity, Forecasting with ARIMA model) - 'portfolio.csv' dataset is used in this script
 6. **regularization.py** (Regularization techniques: Ridge, Lasso) - 'data_ML.csv' dataset is used in this script
 
@@ -34,3 +34,4 @@ Make sure you have these **libraries** installed:
 TODO:
 
   - requirements.txt
+  - edit regularization.py
