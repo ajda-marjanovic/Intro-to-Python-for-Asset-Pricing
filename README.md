@@ -34,4 +34,3 @@ Make sure you have these **libraries** installed:
 TODO:
 
   - requirements.txt
-  - edit portfolioopt script
