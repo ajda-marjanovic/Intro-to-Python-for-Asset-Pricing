@@ -14,8 +14,7 @@ It is recommended to work through the files in the following order:
 
      Companion slides for the regularization script can be found [here](https://github.com/ajda-marjanovic/Intro-to-Python-for-Asset-Pricing/blob/d63b2bb1582943fcb03edc54d19621caa971e140/Regularization.pdf)
 
-**Data**:
-Two datasets are required to work through the scripts in this repository:
+Two **datasets** are required to work through the scripts in this repository:
 - portfolio.csv (This file can be found directly in the repository.)
 - data_ML.csv (Due to the its large size (~ 100MB), this file is not included in the repository. It can be downloaded from my Dropbox [here](https://www.dropbox.com/scl/fi/5f1e2ndfif8nlic4uzqp4/data_ML.csv?rlkey=klp8kpwvl0qor9dlag69vw1lq&st=9pu9ifsm&dl=0))
    
