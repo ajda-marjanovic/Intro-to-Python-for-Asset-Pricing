@@ -20,14 +20,16 @@ Two **datasets** are required to work through the scripts in this repository:
    
 Make sure you have these **libraries** installed:
 
-- pandas
-- numpy
-- matplotlib
-- yfinance
 - arch
+- matplotlib
+- numpy
+- pandas
 - pandas_datareader
-- statsmodels
+- pypfopt
+- seaborn
 - sklearn
+- statsmodels
+- yfinance
 
 TODO:
 
