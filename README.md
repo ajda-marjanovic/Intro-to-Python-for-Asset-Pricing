@@ -27,3 +27,6 @@ Make sure you have these **libraries** installed:
 - pandas_datareader
 - statsmodels
 - sklearn
+
+TODO:
+  -requirements.txt
